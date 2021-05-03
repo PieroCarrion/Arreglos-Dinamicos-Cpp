@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  ArreglosDinamicos.cpp
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ArreglosDinamicos\ArreglosDinamicos.cpp(84,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ArreglosDinamicos\ArreglosDinamicos.cpp(96,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  AssemblyInfo.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ArreglosDinamicos.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ArreglosDinamicos.vcxproj -> C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Debug\ArreglosDinamicos.exe

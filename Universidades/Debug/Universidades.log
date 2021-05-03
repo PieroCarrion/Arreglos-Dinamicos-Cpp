@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Universidades.cpp
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Universidades\Operaciones.hpp(10,79): error C2679: binary '=': no operator found which takes a right-hand operand of type 'Universidades *' (or there is no acceptable conversion)
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Universidades\CUniversidades.h(29,1): message : could be 'Universidades &Universidades::operator =(const Universidades &)'
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Universidades\Operaciones.hpp(10,79): message : while trying to match the argument list '(Universidades, Universidades *)'
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Universidades\Universidades.cpp(57,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generating Code...

@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  ComposicionMusicales.cpp
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ComposicionMusicales\ComposicionMusicales.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ComposicionMusicales\ComposicionMusicales.cpp(38,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ComposicionMusicales\ComposicionMusicales.cpp(71,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ComposicionMusicales\ComposicionMusicales.cpp(73,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Generating Code...
+C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\ComposicionMusicales\ComposicionMusicales.cpp(76): warning C4700: uninitialized local variable 'pos' used
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ComposicionMusicales.vcxproj -> C:\Users\SS\Desktop\Ciclos\Proyectos Univ\Proyectos232\ComposicionMusicales\Debug\ComposicionMusicales.exe
